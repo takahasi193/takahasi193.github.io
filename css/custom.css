@@ -31,7 +31,7 @@
 }
 
 /* 首页文章卡片 */
-#recent-posts > .recent-post-item {
+#recent-posts .recent-post-item {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
   border: var(--border-style);
