@@ -24,8 +24,8 @@
 }
 
 :root {
-  --trans-light: rgba(255, 255, 255, 0.5);
-  --trans-dark: rgba(25, 25, 25, 0.5);
+  --trans-light: rgba(255, 255, 255, 0.3);
+  --trans-dark: rgba(25, 25, 25, 0.3);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
 }
