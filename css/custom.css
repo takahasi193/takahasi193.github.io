@@ -34,8 +34,8 @@
 #recent-posts > .recent-post-item {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
-  border-radius: 25px;
   border: var(--border-style);
+  border-radius: 25px;
 }
 
 /* 首页侧栏卡片 */
