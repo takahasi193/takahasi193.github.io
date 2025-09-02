@@ -35,7 +35,7 @@
   background: rgba(255, 255, 255, 0.3);
   backdrop-filter: var(--backdrop-filter);
   border: var(--border-style);
-  border-radius: 25px;
+  border-radius: 20px;
 }
 
 /* 首页侧栏卡片 */
