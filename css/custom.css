@@ -110,5 +110,5 @@ h3::before,
 h4::before,
 h5::before,
 h6::before {
-  -webkit-animation: ccc 4s linear infinite;
+  -webkit-animation: ccc 2s linear infinite;
   animation: ccc 4s linear infinite;
